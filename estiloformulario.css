@@ -1,0 +1,8 @@
+#redondear
+{
+    background-color: #999;
+    border-radius: 10px 10px 10px 10px;
+    width: 400px;
+    height: 250px;
+    padding: 1%;
+}
